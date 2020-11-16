@@ -1,0 +1,12 @@
+/Users/nevernimdpieceofshit/Projects/Lab12_class/Lab12_class/bin/Debug/netcoreapp3.1/Lab12_class.deps.json
+/Users/nevernimdpieceofshit/Projects/Lab12_class/Lab12_class/bin/Debug/netcoreapp3.1/Lab12_class.runtimeconfig.json
+/Users/nevernimdpieceofshit/Projects/Lab12_class/Lab12_class/bin/Debug/netcoreapp3.1/Lab12_class.runtimeconfig.dev.json
+/Users/nevernimdpieceofshit/Projects/Lab12_class/Lab12_class/bin/Debug/netcoreapp3.1/Lab12_class.dll
+/Users/nevernimdpieceofshit/Projects/Lab12_class/Lab12_class/bin/Debug/netcoreapp3.1/Lab12_class.pdb
+/Users/nevernimdpieceofshit/Projects/Lab12_class/Lab12_class/obj/Debug/netcoreapp3.1/Lab12_class.csprojAssemblyReference.cache
+/Users/nevernimdpieceofshit/Projects/Lab12_class/Lab12_class/obj/Debug/netcoreapp3.1/Lab12_class.AssemblyInfoInputs.cache
+/Users/nevernimdpieceofshit/Projects/Lab12_class/Lab12_class/obj/Debug/netcoreapp3.1/Lab12_class.AssemblyInfo.cs
+/Users/nevernimdpieceofshit/Projects/Lab12_class/Lab12_class/obj/Debug/netcoreapp3.1/Lab12_class.csproj.CoreCompileInputs.cache
+/Users/nevernimdpieceofshit/Projects/Lab12_class/Lab12_class/obj/Debug/netcoreapp3.1/Lab12_class.dll
+/Users/nevernimdpieceofshit/Projects/Lab12_class/Lab12_class/obj/Debug/netcoreapp3.1/Lab12_class.pdb
+/Users/nevernimdpieceofshit/Projects/Lab12_class/Lab12_class/obj/Debug/netcoreapp3.1/Lab12_class.genruntimeconfig.cache

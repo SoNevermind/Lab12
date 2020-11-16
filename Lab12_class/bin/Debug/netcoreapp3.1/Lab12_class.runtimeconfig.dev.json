@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/nevernimdpieceofshit/.dotnet/store/|arch|/|tfm|",
+      "/Users/nevernimdpieceofshit/.nuget/packages"
+    ]
+  }
+}
